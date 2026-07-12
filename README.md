@@ -9,8 +9,18 @@ C:\Users\<Username>\AppData\LocalLow\MijuGames\Planet Crafter\Custom-X.json
 
 Replace **X** with the next available number.
 
+--------------------------------------------------------------------------------------------
 
+HINWEIS: Erstelle eine Sicherungskopie (z. B. ein ZIP- oder RAR-Archiv) des gesamten Savegame-Ordners, bevor kopiert wird. Deaktiviere Steam Cloud für „Planet Crafter“, schließe das Spiel (und gegebenenfalls Steam) und kopiere dann Custom-X.json in den Ordner. Sobald alles  funktioniert, kann man die Steam Cloud wieder aktivieren.
 
+Hier ist (nicht ganz ohne Stolz) mein Savegame:
 
+```text
+C:\Users\<Benutzername>\AppData\LocalLow\MijuGames\Planet Crafter\Custom-X.json
+```
 
+Ersetzt X durch die nächste verfügbare ungenutzte Zahl.
+
+```text
 Tested with Planet Crafter v2.008 - Last tested: 07/12/2026 - 12.7.2026
+```
