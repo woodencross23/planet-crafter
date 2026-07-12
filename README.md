@@ -21,6 +21,8 @@ C:\Users\<Benutzername>\AppData\LocalLow\MijuGames\Planet Crafter\Custom-X.json
 
 Ersetzt X durch die nächste verfügbare ungenutzte Zahl.
 
+--------------------------------------------------------------------------------------------
+
 ```text
 Tested with Planet Crafter v2.008 - Last tested: 07/12/2026 - 12.7.2026
 ```
