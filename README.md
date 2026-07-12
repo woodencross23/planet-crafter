@@ -2,7 +2,8 @@ NOTICE: Create a backup (rar, zip eg.) of your whole savegame folder before copy
 
 Finally I proudly present my late-game save file for Planet Crafter:
 
-
-C:\Users\ <Username> \AppData\LocalLow\MijuGames\Planet Crafter\Custom-X.json
+```text
+C:\Users\<Username>\AppData\LocalLow\MijuGames\Planet Crafter\Custom-X.json
+```
 
 Replace X with the next available number.
