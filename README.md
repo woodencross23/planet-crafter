@@ -36,5 +36,5 @@ Ersetze **X** durch die nächste verfügbare ungenutzte Zahl.
 --------------------------------------------------------------------------------------------
 
 ```text
-Tested with Planet Crafter v2.008 - Last tested: 2026-07-12
+Tested with Planet Crafter v2.008 - Last tested: 2026-07-12 - steam playtime 139 hrs
 ```
