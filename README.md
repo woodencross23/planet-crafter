@@ -8,3 +8,9 @@ C:\Users\<Username>\AppData\LocalLow\MijuGames\Planet Crafter\Custom-X.json
 ```
 
 Replace **X** with the next available number.
+
+
+
+
+
+Tested with Planet Crafter v2.008 - Last tested: 07/12/2026 - 12.7.2026
