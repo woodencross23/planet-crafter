@@ -3,6 +3,6 @@ NOTICE: Create a backup (rar, zip eg.) of your whole savegame folder before copy
 Finally i proudly present my lategame savefile in planet crafter:
 
 
-C:\Users\<Username>\AppData\LocalLow\MijuGames\Planet Crafter\Custom-X.json
+C:\Users\(Username)\AppData\LocalLow\MijuGames\Planet Crafter\Custom-X.json
 
 Replace X with the next available number.
