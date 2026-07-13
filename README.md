@@ -10,14 +10,14 @@ To open the gamefolder, push (WIN+R) and enter/copy the following path:
 %USERPROFILE%\AppData\LocalLow\MijuGames\
 ```
 
-Finally I proudly present my late-game save file for Planet Crafter:
+Here is my late-game save for Planet Crafter::
 
 ```text
 C:\Users\<Username>\AppData\LocalLow\MijuGames\Planet Crafter\Custom-X.json
 ```
 
-- Copy **Custom-X.json** to gamefolder<br>
-- Replace **X** with the next available number (e.g Custom-1.json, Custom-5.json)<br>
+- Copy **Custom-X.json** to game folder<br>
+- Rename the file by replacing **X** with the next available number (e.g. Custom-1.json or Custom-5.json)<br>
 - Done
 
 --------------------------------------------------------------------------------------------
@@ -30,7 +30,7 @@ Um den Gameordner zu öffnen (WIN+R) zusammen drücken und dann diese Zeile kopi
 %USERPROFILE%\AppData\LocalLow\MijuGames\
 ```
 
-Hier ist (nicht ganz ohne Stolz) mein endgame-savegame:
+Das ist mein Endgame-Savegame:
 
 ```text
 C:\Users\<Benutzername>\AppData\LocalLow\MijuGames\Planet Crafter\Custom-X.json
