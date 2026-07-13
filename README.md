@@ -16,11 +16,7 @@ Finally I proudly present my late-game save file for Planet Crafter:
 C:\Users\<Username>\AppData\LocalLow\MijuGames\Planet Crafter\Custom-X.json
 ```
 
-Copy 
-```text
-Custom-X.json
-```
-to gamefolder<br>
+Copy **Custom-X.json** to gamefolder<br>
 Replace **X** with the next available number (e.g Custom-1.json, Custom-5.json)<br>
 Done
 
@@ -34,18 +30,18 @@ Um den Gameordner zu öffnen (WIN+R) zusammen drücken und dann diese Zeile kopi
 %USERPROFILE%\AppData\LocalLow\MijuGames\
 ```
 
-Hier ist (nicht ganz ohne Stolz) mein Savegame:
+Hier ist (nicht ganz ohne Stolz) mein endgame-savegame:
 
 ```text
 C:\Users\<Benutzername>\AppData\LocalLow\MijuGames\Planet Crafter\Custom-X.json
 ```
 
-Kopiere Custom-X.json in den Gameordner<br>
+Kopiere **Custom-X.json** in den Gameordner<br>
 Ersetze **X** durch die nächste verfügbare ungenutzte ganze Zahl (z.B. Custom-1.json, Custom-5.json)<br>
 Fertig
 
 --------------------------------------------------------------------------------------------
 
 ```text
-Tested with Planet Crafter v2.008 - Last tested: 2026-07-12 - Playtime in this Savegame: 139 hrs
+Tested with Planet Crafter v2.008 - Last tested: 2026-07-13 - Playtime in this Savegame: ~140 hrs
 ```
