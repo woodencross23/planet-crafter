@@ -39,5 +39,5 @@ Kopiere Custom-X.json in den Gameordner - Ersetze **X** durch die n√§chste verf√
 --------------------------------------------------------------------------------------------
 
 ```text
-Tested with Planet Crafter v2.008 - Last tested: 2026-07-12 - steam playtime 139 hrs
+Tested with Planet Crafter v2.008 - Last tested: 2026-07-12 - Playtime in this Savegame: 139 hrs
 ```
