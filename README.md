@@ -43,7 +43,7 @@ C:\Users\<Benutzername>\AppData\LocalLow\MijuGames\Planet Crafter\Custom-X.json
 --------------------------------------------------------------------------------------------
 
 ```text
-Tested with Planet Crafter v2.008<br>
-Last tested: 2026-07-14<br>
+Tested with Planet Crafter v2.008
+Last tested: 2026-07-14
 Playtime in this Savegame: ~140 hrs
 ```
