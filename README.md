@@ -7,7 +7,7 @@ Disable Steam Cloud for Planet Crafter, close the game (and Steam if necessary),
 To open the game folder, press WIN+R and paste the following path:
 
 ```text
-%USERPROFILE%\AppData\LocalLow\MijuGames\
+%USERPROFILE%\AppData\LocalLow\MijuGames\Planet Crafter\
 ```
 
 Here is my late-game save for Planet Crafter:
@@ -27,7 +27,7 @@ C:\Users\<Username>\AppData\LocalLow\MijuGames\Planet Crafter\Custom-X.json
 Um den Gameordner zu öffnen, drücke WIN+R und kopiere folgenden Pfad:
 
 ```text
-%USERPROFILE%\AppData\LocalLow\MijuGames\
+%USERPROFILE%\AppData\LocalLow\MijuGames\Planet Crafter\
 ```
 
 Das ist mein Endgame-Savegame:
